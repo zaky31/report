@@ -5,3 +5,4 @@ Selamat datang di report SPO (https://zaky31.github.io/report/)
 - R_monev_sakti/R_capaian_output.html -> laporan capaian ouput pada sakti tahun 2024
 - R_report_ing_umk/ing_umk.html -> estimasi informasi nilai zat gizi pangan
 - masa_simpan24/olah_data_masa_simpan.html -> laporan hasil survei penentuan batas akhir masa simpan
+- Project%20Sites%20monevspo/project_gd2k.html -> Link sites pelaporan data dan dashboard Dit. SPO
